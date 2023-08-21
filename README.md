@@ -1,8 +1,6 @@
 # Web Diskusi menggunakan Laravel
 
--   Wahyu Santoso
--   Muhammad Ihsan
--   
+ 
 ## ERD
 ![ERD_Final_Project_Fix.png](ERD_Final_Project_Fix.png?raw=true)
 
